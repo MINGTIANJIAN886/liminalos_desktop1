@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="了解Liminal 灵眸的建设单位、团队信息、项目动态与公开平台。" />
+  <title>关于我们 | Liminal 灵眸</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="subpage.css?v=20260922-3" />
+  <link rel="stylesheet" href="assets/css/logo-theme.css" />
+</head>
+<body class="about-page">
+  <div class="page">
+    <header class="topbar">
+      <nav class="nav" aria-label="主导航">
+        <a class="nav-brand-text site-logo" href="index.html" aria-label="Liminal 灵眸首页"><span class="site-logo-stack" aria-hidden="true"><img class="site-logo-layer site-logo-layer--light" src="assets/media/liminal-logo-header-light.png" alt="" /><img class="site-logo-layer site-logo-layer--dark" src="assets/media/liminal-logo-header-dark.png" alt="" /></span></a>
+        <div class="links nav-primary">
+          <a href="index.html">系统介绍</a>
+          <a href="scenes.html">功能实录</a>
+          <a href="research.html">技术研究</a>
+          <a class="active" href="about.html">关于我们</a>
+        </div>
+        <div class="links nav-secondary">
+          <a href="model-market/index.html">模型广场</a>
+          <a class="nav-action" href="login.html">云台登录</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="about-hero">
+        <div class="wrap about-hero-grid">
+          <div class="about-hero-copy">
+            <div class="about-hero-heading reveal about-rise-title">
+              <div class="kicker">About Liminal</div>
+              <h1>研究团队</h1>
+            </div>
+            <div class="about-hero-intro reveal about-rise-intro">
+              <p>Liminal 灵眸由北京交通大学自动化与智能学院牵头建设，面向开放动态环境，开展自主载体智能任务执行的技术研究、系统研发与场景验证。</p>
+            </div>
+          </div>
+          <div class="about-institution-hero" aria-label="建设与合作单位">
+            <article class="about-lead-unit reveal about-rise-lead">
+              <div class="about-lead-unit-logo"><img src="bjtu-logo-transparent.png" alt="北京交通大学校徽" /></div>
+              <div class="about-lead-unit-copy">
+                <span>主持单位</span>
+                <h2>北京交通大学</h2>
+                <small>依托学校在轨道交通、运行控制、智能运维和复杂系统等方向的研究基础，推进 Liminal 灵眸的技术研究与系统建设。</small>
+              </div>
+            </article>
+            <div class="about-partner-strip">
+              <article class="about-partner-mini reveal about-rise-partner-one">
+                <img src="npu-logo-transparent.png" alt="西北工业大学校徽" loading="lazy" />
+                <div><span>共建单位</span><strong>西北工业大学</strong></div>
+              </article>
+              <article class="about-partner-mini reveal about-rise-partner-two">
+                <img src="buaa-logo-transparent.png" alt="北京航空航天大学校徽" loading="lazy" />
+                <div><span>共建单位</span><strong>北京航空航天大学</strong></div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-section" id="units">
+        <div class="wrap">
+          <div class="section-head reveal">
+            <div><div class="kicker">Research &amp; Development</div><h2>项目工作</h2></div>
+          </div>
+          <div class="about-work-grid reveal">
+            <article><span>01</span><h3>技术研究</h3><p>研究开放动态环境中的任务理解、智能决策与多载体协同机制。</p></article>
+            <article><span>02</span><h3>系统研发</h3><p>建设连接设备、数据、模型和智能能力的云端运行与管控平台。</p></article>
+            <article><span>03</span><h3>场景验证</h3><p>围绕交通及复杂物理空间开展任务实录、原型验证和持续迭代。</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-section soft" id="team">
+        <div class="wrap">
+          <div class="section-head reveal">
+            <div><div class="kicker">Team</div><h2>团队成员</h2></div>
+            <p>由教师、研究生与本科生共同组成，围绕自主载体智能任务执行开展技术研究、系统研发与场景验证。</p>
+          </div>
+
+          <div class="team-group reveal">
+            <div class="team-group-head"><h3>导师</h3><span>姓名、职责与研究方向将在确认后补充</span></div>
+            <div class="team-grid">
+              <article class="team-member team-member-lead">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">导师信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+            </div>
+          </div>
+
+          <div class="team-group reveal">
+            <div class="team-group-head"><h3>骨干成员</h3><span>姓名、职责与研究方向将在确认后补充</span></div>
+            <div class="team-grid">
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+            </div>
+          </div>
+
+          <div class="team-group reveal">
+            <div class="team-group-head"><h3>实践成员</h3><span>姓名、职责与研究方向将在确认后补充</span></div>
+            <div class="team-grid">
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+              <article class="team-member">
+                <span class="team-member-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="8.6" r="3.9" /><path d="M4.6 20.4c0-3.9 3.3-6.3 7.4-6.3s7.4 2.4 7.4 6.3" /></svg></span>
+                <strong class="team-member-name">成员信息待补充</strong>
+                <span class="team-member-role">姓名 · 职责 · 研究方向</span>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-section" id="news">
+        <div class="wrap">
+          <div class="section-head reveal">
+            <div><div class="kicker">News &amp; Channels</div><h2>项目动态</h2></div>
+          </div>
+          <div class="about-news-list reveal" aria-label="项目动态与公开平台">
+            <article class="about-news-row">
+              <span class="about-news-num">01</span>
+              <div class="about-news-media"><img src="assets/media/research-robotics-equipment.jpg" alt="机器人实验与研究设备" loading="lazy" /></div>
+              <div class="about-news-copy"><h3>微信公众号</h3><p>发布研究交流、项目活动、阶段进展和合作信息。</p></div>
+              <div class="about-news-tags"><span>项目进展</span><span>合作交流</span><span>筹备中</span></div>
+            </article>
+            <article class="about-news-row">
+              <span class="about-news-num">02</span>
+              <div class="about-news-media about-news-media--video"><img src="assets/media/news/douyin-ai-short-cover-v1.png" alt="无人车与无人机协同执行任务的短视频封面" loading="lazy" /></div>
+              <div class="about-news-copy"><h3>抖音</h3><p>发布短视频Demo、现场执行片段和系统功能讲解。</p></div>
+              <div class="about-news-tags"><span>短视频</span><span>Demo实录</span><span>筹备中</span></div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-contact">
+        <div class="wrap about-contact-card reveal">
+          <div><h2>关注项目进展与合作交流</h2><p>申请访问 Liminal 灵眸，或通过邮件与团队联系。</p></div>
+          <div class="hero-actions"><a class="button secondary" href="mailto:wangqb6@outlook.com">联系团队</a><a class="button" href="login.html#apply">申请访问</a></div>
+        </div>
+      </section>
+    </main>
+
+    <footer><div class="wrap footer-inner"><a class="footer-logo" href="index.html" aria-label="Liminal 灵眸首页"><img src="assets/media/liminal-logo-footer.png" alt="Liminal 灵眸｜智驭众载・共赴未来" /></a><span>北京交通大学 · 北京市海淀区上园村3号 · wangqb6@outlook.com</span></div></footer>
+  </div>
+  <script src="subpage.js"></script>
+  <script src="account-store.js"></script>
+  <script src="account-nav.js"></script>
+</body>
+</html>
